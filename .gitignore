@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+
+# Entorno local
+.env
+
+# Logs
+*.log
+
+# Dependencias de producción
+npm-debug.log*
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
